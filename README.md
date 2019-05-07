@@ -1,2 +1,2 @@
-# product-review-angular
-product-review-angular
+# product-review-ui
+product-review-ui
